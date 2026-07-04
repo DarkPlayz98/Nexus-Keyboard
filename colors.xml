@@ -1,0 +1,6 @@
+<resources>
+    <color name="nexus_purple">#7A5CFA</color>
+    <color name="nexus_bg_light">#FFFFFF</color>
+    <color name="nexus_bg_dark">#121212</color>
+    <color name="nexus_bg_amoled">#000000</color>
+</resources>
