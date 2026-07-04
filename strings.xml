@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nexus Keyboard</string>
+    <string name="keyboard_name">Nexus Keyboard</string>
+    <string name="settings_title">Nexus Keyboard Settings</string>
+    <string name="open_settings">Open Keyboard Settings</string>
+    <string name="open_system_ime">Open Android Keyboard Settings</string>
+    <string name="theme_label">Theme</string>
+    <string name="delete_speed_label">Delete repeat speed</string>
+    <string name="modifier_label">Modifier keys</string>
+    <string name="clipboard_label">Clipboard retention</string>
+    <string name="alt_action_label">Alt key action</string>
+    <string name="save_settings">Save settings</string>
+    <string name="reset_settings">Reset defaults</string>
+    <string name="enable_keyboard_hint">Enable Nexus Keyboard in Android input settings, then select it as the current keyboard. The keyboard includes a top toolbar, clipboard panel, and emoji screen.</string>
+</resources>

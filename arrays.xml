@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="theme_modes">
+        <item>System</item>
+        <item>Light</item>
+        <item>Dark</item>
+        <item>AMOLED</item>
+    </string-array>
+
+    <string-array name="modifier_visibility_modes">
+        <item>Hidden</item>
+        <item>Compact</item>
+        <item>Visible</item>
+    </string-array>
+
+    <string-array name="clipboard_retention_modes">
+        <item>Forever</item>
+        <item>30 days</item>
+        <item>7 days</item>
+        <item>1 day</item>
+    </string-array>
+
+    <string-array name="alt_actions">
+        <item>Symbols</item>
+        <item>Clipboard</item>
+        <item>None</item>
+    </string-array>
+</resources>
